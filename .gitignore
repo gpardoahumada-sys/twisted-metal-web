@@ -1,0 +1,10 @@
+# nada del juego, nunca
+*.iso
+*.bin
+*.cue
+*.chd
+*.pbp
+*.zip
+*.7z
+*.rar
+node_modules/
